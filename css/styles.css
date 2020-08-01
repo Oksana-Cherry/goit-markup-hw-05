@@ -341,6 +341,7 @@ border-radius: 2px;*/
 .client-item-svg:hover,
 .client-item-svg:focus {
   fill: var(--accent-color);
+  
 }
 
 .client-item:hover,
